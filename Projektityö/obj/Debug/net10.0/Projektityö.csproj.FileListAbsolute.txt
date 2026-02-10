@@ -1,0 +1,14 @@
+C:\Users\jussi\source\repos\Projektityö\Projektityö\bin\Debug\net10.0\Projektityö.exe
+C:\Users\jussi\source\repos\Projektityö\Projektityö\bin\Debug\net10.0\Projektityö.deps.json
+C:\Users\jussi\source\repos\Projektityö\Projektityö\bin\Debug\net10.0\Projektityö.runtimeconfig.json
+C:\Users\jussi\source\repos\Projektityö\Projektityö\bin\Debug\net10.0\Projektityö.dll
+C:\Users\jussi\source\repos\Projektityö\Projektityö\bin\Debug\net10.0\Projektityö.pdb
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.AssemblyInfoInputs.cache
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.AssemblyInfo.cs
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.csproj.CoreCompileInputs.cache
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.dll
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\refint\Projektityö.dll
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.pdb
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\Projektityö.genruntimeconfig.cache
+C:\Users\jussi\source\repos\Projektityö\Projektityö\obj\Debug\net10.0\ref\Projektityö.dll
